@@ -1,0 +1,11 @@
+mqtt:
+  hostname: ***
+  port: 1883
+  user: ***
+  password: ***
+deviceName: Living
+client_id: Living
+particleSensor: PARTICLE_SENSOR_PPD42
+cycle_period: 0 # CYCLE_PERIOD_3_S = 0 
+                # CYCLE_PERIOD_100_S = 1
+                # CYCLE_PERIOD_300_S = 2
